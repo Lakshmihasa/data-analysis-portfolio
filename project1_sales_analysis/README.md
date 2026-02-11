@@ -204,7 +204,7 @@ Dashboard using Power BI or Streamlit
 
 Automated reporting pipeline
 
-Machine Learning Forecasting
+* Machine Learning Forecasting
 
 A baseline linear regression model initially performed poorly (R² = 0.03).
 
