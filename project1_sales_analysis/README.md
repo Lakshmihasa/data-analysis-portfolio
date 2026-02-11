@@ -203,3 +203,15 @@ Customer segmentation using clustering
 Dashboard using Power BI or Streamlit
 
 Automated reporting pipeline
+
+Machine Learning Forecasting
+
+A baseline linear regression model initially performed poorly (R² = 0.03).
+
+After adding seasonality features (Month), the improved seasonal regression model achieved:
+
+R² Score: 0.49
+
+MAE: ₹11,599
+
+This demonstrates the importance of feature engineering in time-series forecasting.
