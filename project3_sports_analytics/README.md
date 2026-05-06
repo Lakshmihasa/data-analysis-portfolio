@@ -6,7 +6,6 @@ This project analyzes professional football player data from the FIFA dataset to
 The goal is to demonstrate end-to-end data analysis skills including data cleaning, exploratory data analysis (EDA), feature engineering, regression modeling, and business insight generation.
 
 ---
-
 ## 📂 Dataset
 - Source: FIFA 21 Players Dataset (Kaggle)
 - Size: 20,000+ players
