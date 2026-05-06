@@ -166,7 +166,7 @@ Outcome
 
 This project demonstrates how data analytics and machine learning techniques can be applied to improve customer understanding and product recommendations in e-commerce businesses.
 
-Author
 
+Author
 Lakshmi Hasa
 Data Analytics Portfolio
