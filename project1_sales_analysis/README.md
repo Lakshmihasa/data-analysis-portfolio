@@ -1,4 +1,5 @@
 * Retail Sales Data Analysis
+  
 End-to-End Business Intelligence Project using Python & SQL
 * Project Overview
 
