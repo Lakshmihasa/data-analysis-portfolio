@@ -1,4 +1,5 @@
 E-commerce Analytics: Customer Segmentation & Recommendation System
+
 Project Overview
 
 This project analyzes e-commerce transaction data to understand customer purchasing behavior and product relationships. The analysis focuses on identifying customer segments and building a product recommendation system.
